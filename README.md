@@ -1,15 +1,21 @@
 <p align="center">
-  <h2 align="center">:milky_way: GitHub Emojis</h2>
+  <h2 align="center">:mag_right: GitHub Emojis</h2>
   <p align="center">Lista completa de emojis GitHub</p>
 </p>
 
 Torne suas descrições mais cativantes usando emojis do GitHub! <br> Basta inserir o nome do emoji entre dois pontos, conforme exemplificado na tabela a seguir.
 
-<sub>
-    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/nferdica)
-    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nferdica/) 
-    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nferdica/) 
-</sub>
+<div align="center"> 
+  
+  <a href="https://www.instagram.com/nferdica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href = "https://github.com/nferdica" target="_blank"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/nferdica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+    
+
 
 <br>
 
